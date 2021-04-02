@@ -7,7 +7,7 @@ git clone URL
 
 Add the source to your staging area
 
-git add Hw7.py
+git add HW7.py
 
 Check that it was added
 
